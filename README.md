@@ -23,3 +23,6 @@ https://kulshekhar.github.io/ts-jest/docs/getting-started/installation
 
 # Tạo ra file tsconfig.json
 Lệnh : tsc --init
+
+# Tìm hiểu về tsconfig bạn có thể tham khảo link sau playground 
+https://www.typescriptlang.org/play?target=1#code/MYewdgzgLgBA5gJwKZKgSzHAXDaCNwwC8MABgBZIA2VIMAJAN4CMMA1DMwL6kBQokEFSQA6WnAAUiFOkwBKANy9eEiXKIA+RrwxQkCAGYBDYEhgBlKAFcAJkjCxtMZzDQ2cYKwFsARvqUuMGBGXkg4eAQBLkZwYUHefgi8XMoC0DDA5PgQOJa29rBETi5uOMwANDC8gcGhOADkADIoGVloEPWV1dGxZQAcyang6Yy1SJVulTFIXMSt2QpVaUKi4hJjEzZTsXLKXHJqQA
