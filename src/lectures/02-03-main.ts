@@ -127,11 +127,11 @@ capichi.getName();
 
 // Note: lưu ý không thể merge đối với type alias.
 
-type Student = {
-  id: number;
-  name: string;
-};
-// ts error: Duplicate identifier 'Student'.
-type Student = {
-  age?: number;
-};
+// type Student = {
+//   id: number;
+//   name: string;
+// };
+// // ts error: Duplicate identifier 'Student'.
+// type Student = {
+//   age?: number;
+// };
